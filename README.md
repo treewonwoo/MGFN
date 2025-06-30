@@ -38,7 +38,7 @@ MGFN/
 │   ├── MGFN_18R.h
 │   ├── recover_masterkey.c
 │   ├── recover_masterkey.h
-│   └── README.md        # Details for linear attack (automatic)
+│   └── README.md        # Details for linear cryptanalysis (automatic)
 │
 ├── MGFN_Differential_Cryptanalysis/
 │   ├── dif_gen_data.c
@@ -50,7 +50,7 @@ MGFN/
 │   ├── merge_with_dif_1.py
 │   ├── merge_with_dif_2.py
 │   ├── filter.py
-│   └── README.md        # Details for differential attack (manual)
+│   └── README.md        # Details for differential cryptanalysis (manual)
 │
 ├── data/
 │   └── (generated/filtered datasets)
@@ -83,7 +83,7 @@ MGFN/
 ```
 MIT License
 
-Copyright (c) 2025 Wonwoo Song, Namil Kim, Seungjun Baek, Yongjin Jeon, Giyoon Kim and Jongsung Kim
+Copyright (c) 2025  Namil Kim, Wonwoo Song, Seungjun Baek, Yongjin Jeon, Giyoon Kim and Jongsung Kim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
