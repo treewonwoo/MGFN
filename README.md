@@ -60,22 +60,26 @@ MGFN/
 
 ## 🚦 How to Use
 
-### 🔹 Linear Cryptanalysis (18R)
-- Go to the `MGFN_Linear_Cryptanalysis/` folder.
-- See the `README.md` in that folder for a **fully automated** attack—simply run a single command to perform end-to-end key recovery.
+### 🔷 Linear Cryptanalysis (18R)
+- Enter the `MGFN_Linear_Cryptanalysis/` directory.
+- See its `README.md` for a **fully automated** key recovery: just run a single command for end-to-end attack.
 
-### 🔹 Differential Cryptanalysis (24R)
-- Go to the `MGFN_Differential_Cryptanalysis/` folder.
-- See the `README.md` in that folder for a **step-by-step pipeline**—you’ll need to edit variable values and file paths, and run each stage manually in order (data generation, merging, filtering, key search, etc).
+### 🔷 Differential Cryptanalysis (24R)
+- Enter the `MGFN_Differential_Cryptanalysis/` directory.
+- See its `README.md` for a **manual step-by-step pipeline**: edit variables and file paths as needed, and run each stage of the pipeline in order (data generation, merging, filtering, key recovery, etc.).
 
 ---
 
 **General Notes**
-- For both variants, you must manually set file paths, dataset sizes, mask values, and performance parameters at the top of each script or source file before running.
-- Intermediate files can be several gigabytes—make sure you have enough disk space.
+- For both variants, you must set file paths, dataset sizes, mask values, and performance parameters at the top of each script or source file before running.
+- Intermediate files can be several gigabytes—ensure you have enough disk space.
+
+> For full details, see the individual `README.md` files in each subdirectory.
 
 ---
 
-> For full details and options, see the individual `README.md` files inside each project folder.
+## 📄 License
+
+
 
 
