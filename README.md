@@ -69,7 +69,6 @@ MGFN/
 - Enter the `MGFN_Differential_Cryptanalysis/` directory.
 - See its `README.md` for a **manual step-by-step pipeline**: edit variables and file paths as needed, and run each stage of the pipeline in order (data generation, merging, filtering, key recovery, etc.).
 
----
 
 **General Notes**
 - For both variants, you must set file paths, dataset sizes, mask values, and performance parameters at the top of each script or source file before running.
