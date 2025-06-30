@@ -24,7 +24,7 @@ This repository contains two separate attacks:
   - User must configure and run each stage individually
 
 All dataset sizes, file paths, and parameters must be set at the top of each script or source file before running.  
-**The 18R linear attack is fully automatic; the 24R differential attack is modular and requires manual control for each step.**
+**The 18R linear cryptanalysis is fully automatic; the 24R differential cryptanalysis is modular and requires manual control for each step.**
 
 ---
 
